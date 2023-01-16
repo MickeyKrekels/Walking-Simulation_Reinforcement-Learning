@@ -1,0 +1,2 @@
+# Walking-Simulation_Reinforcement-Learning
+The goal of this project is to learn an agent walk with the rainbow Reinforcement-Learning algorithm. The code language that is going to be used is Python.
